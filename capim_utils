@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "What do you need?"
+echo "1 - Download bower.json"
+
+read command;
+
+if [ "${command}" -eq "1" ]
+then
+  wget -nv -O "bower.json" "https://github.com/capimichi/capim-utils/blob/master/bower/bower.json" > /dev/null 2>&1
+fi
+
+echo "Done"
