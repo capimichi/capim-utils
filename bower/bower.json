@@ -1,0 +1,24 @@
+{
+  "name": "Util",
+  "authors": [
+    "Michele Capicchioni <capimichi@gmail.com>"
+  ],
+  "description": "Standard bower file with many useful libraries",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
+    "font-awesome": "fontawesome#^4.7.0",
+    "jquery_lazyload": "jquery.lazyload#^1.9.7",
+    "remodal": "^1.1.1",
+    "magnific-popup": "^1.1.0",
+    "jquery-ui": "jquery.ui#^1.12.1",
+    "moment": "^2.17.1",
+    "animate.css": "^3.5.2",
+    "iCheck": "^1.0.2",
+    "hover": "Hover#^2.1.0"
+  }
+}
